@@ -28,7 +28,7 @@
          <configuration>
            <archive>
              <manifest>
-               <mainClass>WordCount</mainClass>
+               <mainClass>p1.WordCount</mainClass>
              </manifest>
            </archive>
          </configuration>
